@@ -1,0 +1,32 @@
+[
+  {
+    "region": "Europe",
+    "totalRegionalSpent": 28750.5,
+    "uniqueTravelersByRegion": 27
+  },
+  {
+    "region": "North America",
+    "totalRegionalSpent": 14700,
+    "uniqueTravelersByRegion": 12
+  },
+  {
+    "region": "Asia",
+    "totalRegionalSpent": 26960,
+    "uniqueTravelersByRegion": 16
+  },
+  {
+    "region": "Oceania",
+    "totalRegionalSpent": 17490,
+    "uniqueTravelersByRegion": 13
+  },
+  {
+    "region": "South America",
+    "totalRegionalSpent": 11650,
+    "uniqueTravelersByRegion": 11
+  },
+  {
+    "region": "Africa",
+    "totalRegionalSpent": 12470,
+    "uniqueTravelersByRegion": 12
+  }
+]

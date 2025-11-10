@@ -1,0 +1,13 @@
+{
+  "name": "sample_wanderlog_1",
+  "version": "1.0.0",
+  "main": "main.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jodie Downey",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}

@@ -1,0 +1,1446 @@
+{
+  "travelerSummary": [
+    {
+      "travelerId": "t01",
+      "totalBookings": 3,
+      "totalSpent": 4250.5,
+      "averageCostPerBooking": 1416.8333333333333
+    },
+    {
+      "travelerId": "t02",
+      "totalBookings": 3,
+      "totalSpent": 2830,
+      "averageCostPerBooking": 943.3333333333334
+    },
+    {
+      "travelerId": "t03",
+      "totalBookings": 2,
+      "totalSpent": 1920,
+      "averageCostPerBooking": 960
+    },
+    {
+      "travelerId": "t04",
+      "totalBookings": 2,
+      "totalSpent": 2600,
+      "averageCostPerBooking": 1300
+    },
+    {
+      "travelerId": "t05",
+      "totalBookings": 2,
+      "totalSpent": 2260,
+      "averageCostPerBooking": 1130
+    },
+    {
+      "travelerId": "t06",
+      "totalBookings": 2,
+      "totalSpent": 2160,
+      "averageCostPerBooking": 1080
+    },
+    {
+      "travelerId": "t07",
+      "totalBookings": 2,
+      "totalSpent": 2080,
+      "averageCostPerBooking": 1040
+    },
+    {
+      "travelerId": "t08",
+      "totalBookings": 2,
+      "totalSpent": 1950,
+      "averageCostPerBooking": 975
+    },
+    {
+      "travelerId": "t09",
+      "totalBookings": 2,
+      "totalSpent": 2670,
+      "averageCostPerBooking": 1335
+    },
+    {
+      "travelerId": "t10",
+      "totalBookings": 2,
+      "totalSpent": 2700,
+      "averageCostPerBooking": 1350
+    },
+    {
+      "travelerId": "t11",
+      "totalBookings": 2,
+      "totalSpent": 2090,
+      "averageCostPerBooking": 1045
+    },
+    {
+      "travelerId": "t12",
+      "totalBookings": 2,
+      "totalSpent": 2970,
+      "averageCostPerBooking": 1485
+    },
+    {
+      "travelerId": "t13",
+      "totalBookings": 2,
+      "totalSpent": 3050,
+      "averageCostPerBooking": 1525
+    },
+    {
+      "travelerId": "t14",
+      "totalBookings": 2,
+      "totalSpent": 1690,
+      "averageCostPerBooking": 845
+    },
+    {
+      "travelerId": "t15",
+      "totalBookings": 2,
+      "totalSpent": 1940,
+      "averageCostPerBooking": 970
+    },
+    {
+      "travelerId": "t16",
+      "totalBookings": 2,
+      "totalSpent": 2050,
+      "averageCostPerBooking": 1025
+    },
+    {
+      "travelerId": "t17",
+      "totalBookings": 2,
+      "totalSpent": 2570,
+      "averageCostPerBooking": 1285
+    },
+    {
+      "travelerId": "t18",
+      "totalBookings": 2,
+      "totalSpent": 2070,
+      "averageCostPerBooking": 1035
+    },
+    {
+      "travelerId": "t19",
+      "totalBookings": 2,
+      "totalSpent": 2550,
+      "averageCostPerBooking": 1275
+    },
+    {
+      "travelerId": "t20",
+      "totalBookings": 2,
+      "totalSpent": 2280,
+      "averageCostPerBooking": 1140
+    },
+    {
+      "travelerId": "t21",
+      "totalBookings": 2,
+      "totalSpent": 2690,
+      "averageCostPerBooking": 1345
+    },
+    {
+      "travelerId": "t22",
+      "totalBookings": 2,
+      "totalSpent": 2670,
+      "averageCostPerBooking": 1335
+    },
+    {
+      "travelerId": "t23",
+      "totalBookings": 2,
+      "totalSpent": 1860,
+      "averageCostPerBooking": 930
+    },
+    {
+      "travelerId": "t24",
+      "totalBookings": 2,
+      "totalSpent": 2800,
+      "averageCostPerBooking": 1400
+    },
+    {
+      "travelerId": "t25",
+      "totalBookings": 2,
+      "totalSpent": 2970,
+      "averageCostPerBooking": 1485
+    },
+    {
+      "travelerId": "t26",
+      "totalBookings": 2,
+      "totalSpent": 1910,
+      "averageCostPerBooking": 955
+    },
+    {
+      "travelerId": "t27",
+      "totalBookings": 2,
+      "totalSpent": 1910,
+      "averageCostPerBooking": 955
+    },
+    {
+      "travelerId": "t28",
+      "totalBookings": 2,
+      "totalSpent": 1950,
+      "averageCostPerBooking": 975
+    },
+    {
+      "travelerId": "t29",
+      "totalBookings": 2,
+      "totalSpent": 2690,
+      "averageCostPerBooking": 1345
+    },
+    {
+      "travelerId": "t30",
+      "totalBookings": 2,
+      "totalSpent": 2610,
+      "averageCostPerBooking": 1305
+    },
+    {
+      "travelerId": "t31",
+      "totalBookings": 1,
+      "totalSpent": 1200,
+      "averageCostPerBooking": 1200
+    },
+    {
+      "travelerId": "t32",
+      "totalBookings": 1,
+      "totalSpent": 1100,
+      "averageCostPerBooking": 1100
+    },
+    {
+      "travelerId": "t33",
+      "totalBookings": 1,
+      "totalSpent": 950,
+      "averageCostPerBooking": 950
+    },
+    {
+      "travelerId": "t34",
+      "totalBookings": 1,
+      "totalSpent": 1450,
+      "averageCostPerBooking": 1450
+    },
+    {
+      "travelerId": "t35",
+      "totalBookings": 1,
+      "totalSpent": 1550,
+      "averageCostPerBooking": 1550
+    },
+    {
+      "travelerId": "t36",
+      "totalBookings": 1,
+      "totalSpent": 1250,
+      "averageCostPerBooking": 1250
+    },
+    {
+      "travelerId": "t37",
+      "totalBookings": 1,
+      "totalSpent": 1000,
+      "averageCostPerBooking": 1000
+    },
+    {
+      "travelerId": "t38",
+      "totalBookings": 1,
+      "totalSpent": 1150,
+      "averageCostPerBooking": 1150
+    },
+    {
+      "travelerId": "t39",
+      "totalBookings": 1,
+      "totalSpent": 1350,
+      "averageCostPerBooking": 1350
+    },
+    {
+      "travelerId": "t40",
+      "totalBookings": 1,
+      "totalSpent": 1250,
+      "averageCostPerBooking": 1250
+    },
+    {
+      "travelerId": "t41",
+      "totalBookings": 1,
+      "totalSpent": 1150,
+      "averageCostPerBooking": 1150
+    },
+    {
+      "travelerId": "t42",
+      "totalBookings": 1,
+      "totalSpent": 1000,
+      "averageCostPerBooking": 1000
+    },
+    {
+      "travelerId": "t43",
+      "totalBookings": 1,
+      "totalSpent": 950,
+      "averageCostPerBooking": 950
+    },
+    {
+      "travelerId": "t44",
+      "totalBookings": 1,
+      "totalSpent": 1050,
+      "averageCostPerBooking": 1050
+    },
+    {
+      "travelerId": "t45",
+      "totalBookings": 1,
+      "totalSpent": 870,
+      "averageCostPerBooking": 870
+    },
+    {
+      "travelerId": "t46",
+      "totalBookings": 1,
+      "totalSpent": 890,
+      "averageCostPerBooking": 890
+    },
+    {
+      "travelerId": "t47",
+      "totalBookings": 1,
+      "totalSpent": 850,
+      "averageCostPerBooking": 850
+    },
+    {
+      "travelerId": "t48",
+      "totalBookings": 1,
+      "totalSpent": 920,
+      "averageCostPerBooking": 920
+    },
+    {
+      "travelerId": "t49",
+      "totalBookings": 1,
+      "totalSpent": 1250,
+      "averageCostPerBooking": 1250
+    },
+    {
+      "travelerId": "t50",
+      "totalBookings": 1,
+      "totalSpent": 1100,
+      "averageCostPerBooking": 1100
+    },
+    {
+      "travelerId": "t51",
+      "totalBookings": 1,
+      "totalSpent": 950,
+      "averageCostPerBooking": 950
+    },
+    {
+      "travelerId": "t52",
+      "totalBookings": 1,
+      "totalSpent": 1000,
+      "averageCostPerBooking": 1000
+    },
+    {
+      "travelerId": "t53",
+      "totalBookings": 1,
+      "totalSpent": 1100,
+      "averageCostPerBooking": 1100
+    },
+    {
+      "travelerId": "t54",
+      "totalBookings": 1,
+      "totalSpent": 950,
+      "averageCostPerBooking": 950
+    },
+    {
+      "travelerId": "t55",
+      "totalBookings": 1,
+      "totalSpent": 870,
+      "averageCostPerBooking": 870
+    },
+    {
+      "travelerId": "t56",
+      "totalBookings": 1,
+      "totalSpent": 940,
+      "averageCostPerBooking": 940
+    },
+    {
+      "travelerId": "t57",
+      "totalBookings": 1,
+      "totalSpent": 1000,
+      "averageCostPerBooking": 1000
+    },
+    {
+      "travelerId": "t58",
+      "totalBookings": 1,
+      "totalSpent": 880,
+      "averageCostPerBooking": 880
+    },
+    {
+      "travelerId": "t59",
+      "totalBookings": 1,
+      "totalSpent": 950,
+      "averageCostPerBooking": 950
+    },
+    {
+      "travelerId": "t60",
+      "totalBookings": 1,
+      "totalSpent": 900,
+      "averageCostPerBooking": 900
+    },
+    {
+      "travelerId": "t61",
+      "totalBookings": 1,
+      "totalSpent": 1100,
+      "averageCostPerBooking": 1100
+    },
+    {
+      "travelerId": "t62",
+      "totalBookings": 1,
+      "totalSpent": 950,
+      "averageCostPerBooking": 950
+    },
+    {
+      "travelerId": "t63",
+      "totalBookings": 1,
+      "totalSpent": 990,
+      "averageCostPerBooking": 990
+    },
+    {
+      "travelerId": "t64",
+      "totalBookings": 1,
+      "totalSpent": 850,
+      "averageCostPerBooking": 850
+    },
+    {
+      "travelerId": "t65",
+      "totalBookings": 1,
+      "totalSpent": 830,
+      "averageCostPerBooking": 830
+    },
+    {
+      "travelerId": "t66",
+      "totalBookings": 1,
+      "totalSpent": 880,
+      "averageCostPerBooking": 880
+    },
+    {
+      "travelerId": "t67",
+      "totalBookings": 1,
+      "totalSpent": 920,
+      "averageCostPerBooking": 920
+    },
+    {
+      "travelerId": "t68",
+      "totalBookings": 1,
+      "totalSpent": 940,
+      "averageCostPerBooking": 940
+    }
+  ],
+  "regionSummary": [
+    {
+      "region": "Europe",
+      "totalRegionalSpent": 28750.5,
+      "uniqueTravelersByRegion": 27
+    },
+    {
+      "region": "North America",
+      "totalRegionalSpent": 14700,
+      "uniqueTravelersByRegion": 12
+    },
+    {
+      "region": "Asia",
+      "totalRegionalSpent": 26960,
+      "uniqueTravelersByRegion": 16
+    },
+    {
+      "region": "Oceania",
+      "totalRegionalSpent": 17490,
+      "uniqueTravelersByRegion": 13
+    },
+    {
+      "region": "South America",
+      "totalRegionalSpent": 11650,
+      "uniqueTravelersByRegion": 11
+    },
+    {
+      "region": "Africa",
+      "totalRegionalSpent": 12470,
+      "uniqueTravelersByRegion": 12
+    }
+  ],
+  "detailedBookings": [
+    {
+      "booking_id": "b011",
+      "traveler_id": "t09",
+      "city": "New York",
+      "start_date": "2024-04-20",
+      "end_date": "2024-04-25",
+      "cost": 1600,
+      "region": "North America",
+      "popularityScore": 97
+    },
+    {
+      "booking_id": "b087",
+      "traveler_id": "t17",
+      "city": "Tokyo",
+      "start_date": "2024-04-15",
+      "end_date": "2024-04-22",
+      "cost": 1680,
+      "region": "Asia",
+      "popularityScore": 96
+    },
+    {
+      "booking_id": "b071",
+      "traveler_id": "t01",
+      "city": "Tokyo",
+      "start_date": "2024-06-02",
+      "end_date": "2024-06-09",
+      "cost": 1650,
+      "region": "Asia",
+      "popularityScore": 96
+    },
+    {
+      "booking_id": "b021",
+      "traveler_id": "t19",
+      "city": "Tokyo",
+      "start_date": "2024-05-14",
+      "end_date": "2024-05-21",
+      "cost": 1600,
+      "region": "Asia",
+      "popularityScore": 96
+    },
+    {
+      "booking_id": "b006",
+      "traveler_id": "t01",
+      "city": "London",
+      "start_date": "2024-09-01",
+      "end_date": "2024-09-07",
+      "cost": 1400,
+      "region": "Europe",
+      "popularityScore": 96
+    },
+    {
+      "booking_id": "b082",
+      "traveler_id": "t12",
+      "city": "Sydney",
+      "start_date": "2024-08-08",
+      "end_date": "2024-08-14",
+      "cost": 1720,
+      "region": "Oceania",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b031",
+      "traveler_id": "t29",
+      "city": "Sydney",
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-07",
+      "cost": 1700,
+      "region": "Oceania",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b095",
+      "traveler_id": "t25",
+      "city": "Singapore",
+      "start_date": "2024-12-01",
+      "end_date": "2024-12-08",
+      "cost": 1570,
+      "region": "Asia",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b015",
+      "traveler_id": "t13",
+      "city": "San Francisco",
+      "start_date": "2024-08-01",
+      "end_date": "2024-08-06",
+      "cost": 1550,
+      "region": "North America",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b026",
+      "traveler_id": "t24",
+      "city": "Singapore",
+      "start_date": "2024-10-10",
+      "end_date": "2024-10-15",
+      "cost": 1550,
+      "region": "Asia",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b083",
+      "traveler_id": "t13",
+      "city": "Singapore",
+      "start_date": "2024-09-12",
+      "end_date": "2024-09-17",
+      "cost": 1500,
+      "region": "Asia",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b086",
+      "traveler_id": "t16",
+      "city": "Paris",
+      "start_date": "2024-12-06",
+      "end_date": "2024-12-12",
+      "cost": 1250,
+      "region": "Europe",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b001",
+      "traveler_id": "t01",
+      "city": "Paris",
+      "start_date": "2024-05-10",
+      "end_date": "2024-05-15",
+      "cost": 1200.5,
+      "region": "Europe",
+      "popularityScore": 95
+    },
+    {
+      "booking_id": "b023",
+      "traveler_id": "t21",
+      "city": "Kyoto",
+      "start_date": "2024-07-10",
+      "end_date": "2024-07-16",
+      "cost": 1350,
+      "region": "Asia",
+      "popularityScore": 94
+    },
+    {
+      "booking_id": "b091",
+      "traveler_id": "t21",
+      "city": "Kyoto",
+      "start_date": "2024-08-04",
+      "end_date": "2024-08-10",
+      "cost": 1340,
+      "region": "Asia",
+      "popularityScore": 94
+    },
+    {
+      "booking_id": "b074",
+      "traveler_id": "t04",
+      "city": "Melbourne",
+      "start_date": "2024-09-10",
+      "end_date": "2024-09-17",
+      "cost": 1620,
+      "region": "Oceania",
+      "popularityScore": 93
+    },
+    {
+      "booking_id": "b032",
+      "traveler_id": "t30",
+      "city": "Melbourne",
+      "start_date": "2024-07-12",
+      "end_date": "2024-07-18",
+      "cost": 1600,
+      "region": "Oceania",
+      "popularityScore": 93
+    },
+    {
+      "booking_id": "b012",
+      "traveler_id": "t10",
+      "city": "Los Angeles",
+      "start_date": "2024-05-05",
+      "end_date": "2024-05-12",
+      "cost": 1450,
+      "region": "North America",
+      "popularityScore": 93
+    },
+    {
+      "booking_id": "b024",
+      "traveler_id": "t22",
+      "city": "Seoul",
+      "start_date": "2024-08-12",
+      "end_date": "2024-08-18",
+      "cost": 1250,
+      "region": "Asia",
+      "popularityScore": 93
+    },
+    {
+      "booking_id": "b080",
+      "traveler_id": "t10",
+      "city": "Seoul",
+      "start_date": "2024-06-20",
+      "end_date": "2024-06-25",
+      "cost": 1250,
+      "region": "Asia",
+      "popularityScore": 93
+    },
+    {
+      "booking_id": "b094",
+      "traveler_id": "t24",
+      "city": "Seoul",
+      "start_date": "2024-11-06",
+      "end_date": "2024-11-12",
+      "cost": 1250,
+      "region": "Asia",
+      "popularityScore": 93
+    },
+    {
+      "booking_id": "b092",
+      "traveler_id": "t22",
+      "city": "Hong Kong",
+      "start_date": "2024-09-02",
+      "end_date": "2024-09-09",
+      "cost": 1420,
+      "region": "Asia",
+      "popularityScore": 92
+    },
+    {
+      "booking_id": "b027",
+      "traveler_id": "t25",
+      "city": "Hong Kong",
+      "start_date": "2024-10-22",
+      "end_date": "2024-10-27",
+      "cost": 1400,
+      "region": "Asia",
+      "popularityScore": 92
+    },
+    {
+      "booking_id": "b075",
+      "traveler_id": "t05",
+      "city": "Rio de Janeiro",
+      "start_date": "2024-10-01",
+      "end_date": "2024-10-07",
+      "cost": 1370,
+      "region": "South America",
+      "popularityScore": 92
+    },
+    {
+      "booking_id": "b041",
+      "traveler_id": "t39",
+      "city": "Rio de Janeiro",
+      "start_date": "2024-05-08",
+      "end_date": "2024-05-14",
+      "cost": 1350,
+      "region": "South America",
+      "popularityScore": 92
+    },
+    {
+      "booking_id": "b100",
+      "traveler_id": "t30",
+      "city": "Barcelona",
+      "start_date": "2024-08-15",
+      "end_date": "2024-08-21",
+      "cost": 1010,
+      "region": "Europe",
+      "popularityScore": 92
+    },
+    {
+      "booking_id": "b004",
+      "traveler_id": "t04",
+      "city": "Barcelona",
+      "start_date": "2024-05-22",
+      "end_date": "2024-05-28",
+      "cost": 980,
+      "region": "Europe",
+      "popularityScore": 92
+    },
+    {
+      "booking_id": "b072",
+      "traveler_id": "t02",
+      "city": "Miami",
+      "start_date": "2024-07-03",
+      "end_date": "2024-07-09",
+      "cost": 1280,
+      "region": "North America",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b076",
+      "traveler_id": "t06",
+      "city": "Cape Town",
+      "start_date": "2024-11-08",
+      "end_date": "2024-11-14",
+      "cost": 1280,
+      "region": "Africa",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b014",
+      "traveler_id": "t12",
+      "city": "Miami",
+      "start_date": "2024-07-15",
+      "end_date": "2024-07-20",
+      "cost": 1250,
+      "region": "North America",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b051",
+      "traveler_id": "t49",
+      "city": "Cape Town",
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-07",
+      "cost": 1250,
+      "region": "Africa",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b043",
+      "traveler_id": "t41",
+      "city": "Buenos Aires",
+      "start_date": "2024-07-10",
+      "end_date": "2024-07-15",
+      "cost": 1150,
+      "region": "South America",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b073",
+      "traveler_id": "t03",
+      "city": "Bangkok",
+      "start_date": "2024-08-12",
+      "end_date": "2024-08-18",
+      "cost": 970,
+      "region": "Asia",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b093",
+      "traveler_id": "t23",
+      "city": "Bangkok",
+      "start_date": "2024-10-05",
+      "end_date": "2024-10-10",
+      "cost": 960,
+      "region": "Asia",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b089",
+      "traveler_id": "t19",
+      "city": "Vienna",
+      "start_date": "2024-06-15",
+      "end_date": "2024-06-21",
+      "cost": 950,
+      "region": "Europe",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b009",
+      "traveler_id": "t07",
+      "city": "Vienna",
+      "start_date": "2024-08-10",
+      "end_date": "2024-08-15",
+      "cost": 930,
+      "region": "Europe",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b069",
+      "traveler_id": "t67",
+      "city": "Budapest",
+      "start_date": "2024-04-22",
+      "end_date": "2024-04-27",
+      "cost": 920,
+      "region": "Europe",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b025",
+      "traveler_id": "t23",
+      "city": "Bangkok",
+      "start_date": "2024-09-05",
+      "end_date": "2024-09-11",
+      "cost": 900,
+      "region": "Asia",
+      "popularityScore": 91
+    },
+    {
+      "booking_id": "b022",
+      "traveler_id": "t20",
+      "city": "Osaka",
+      "start_date": "2024-06-02",
+      "end_date": "2024-06-08",
+      "cost": 1300,
+      "region": "Asia",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b042",
+      "traveler_id": "t40",
+      "city": "São Paulo",
+      "start_date": "2024-06-18",
+      "end_date": "2024-06-24",
+      "cost": 1250,
+      "region": "South America",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b034",
+      "traveler_id": "t32",
+      "city": "Auckland",
+      "start_date": "2024-09-02",
+      "end_date": "2024-09-08",
+      "cost": 1100,
+      "region": "Oceania",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b065",
+      "traveler_id": "t63",
+      "city": "Copenhagen",
+      "start_date": "2024-09-06",
+      "end_date": "2024-09-11",
+      "cost": 990,
+      "region": "Europe",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b081",
+      "traveler_id": "t11",
+      "city": "Copenhagen",
+      "start_date": "2024-07-05",
+      "end_date": "2024-07-10",
+      "cost": 990,
+      "region": "Europe",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b099",
+      "traveler_id": "t29",
+      "city": "Toronto",
+      "start_date": "2024-07-22",
+      "end_date": "2024-07-28",
+      "cost": 990,
+      "region": "North America",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b016",
+      "traveler_id": "t14",
+      "city": "Toronto",
+      "start_date": "2024-08-15",
+      "end_date": "2024-08-20",
+      "cost": 980,
+      "region": "North America",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b085",
+      "traveler_id": "t15",
+      "city": "Toronto",
+      "start_date": "2024-11-10",
+      "end_date": "2024-11-15",
+      "cost": 980,
+      "region": "North America",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b090",
+      "traveler_id": "t20",
+      "city": "Rome",
+      "start_date": "2024-07-18",
+      "end_date": "2024-07-24",
+      "cost": 980,
+      "region": "Europe",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b097",
+      "traveler_id": "t27",
+      "city": "Copenhagen",
+      "start_date": "2024-05-18",
+      "end_date": "2024-05-24",
+      "cost": 980,
+      "region": "Europe",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b003",
+      "traveler_id": "t03",
+      "city": "Rome",
+      "start_date": "2024-07-10",
+      "end_date": "2024-07-15",
+      "cost": 950,
+      "region": "Europe",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b070",
+      "traveler_id": "t68",
+      "city": "Dubrovnik",
+      "start_date": "2024-05-25",
+      "end_date": "2024-05-31",
+      "cost": 940,
+      "region": "Europe",
+      "popularityScore": 90
+    },
+    {
+      "booking_id": "b040",
+      "traveler_id": "t38",
+      "city": "Gold Coast",
+      "start_date": "2024-07-25",
+      "end_date": "2024-07-30",
+      "cost": 1150,
+      "region": "Oceania",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b077",
+      "traveler_id": "t07",
+      "city": "Cairo",
+      "start_date": "2024-12-12",
+      "end_date": "2024-12-18",
+      "cost": 1150,
+      "region": "Africa",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b013",
+      "traveler_id": "t11",
+      "city": "Chicago",
+      "start_date": "2024-06-07",
+      "end_date": "2024-06-12",
+      "cost": 1100,
+      "region": "North America",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b055",
+      "traveler_id": "t53",
+      "city": "Cairo",
+      "start_date": "2024-10-15",
+      "end_date": "2024-10-21",
+      "cost": 1100,
+      "region": "Africa",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b063",
+      "traveler_id": "t61",
+      "city": "Stockholm",
+      "start_date": "2024-07-12",
+      "end_date": "2024-07-17",
+      "cost": 1100,
+      "region": "Europe",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b028",
+      "traveler_id": "t26",
+      "city": "Taipei",
+      "start_date": "2024-11-01",
+      "end_date": "2024-11-06",
+      "cost": 970,
+      "region": "Asia",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b050",
+      "traveler_id": "t48",
+      "city": "Cartagena",
+      "start_date": "2024-05-20",
+      "end_date": "2024-05-26",
+      "cost": 920,
+      "region": "South America",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b098",
+      "traveler_id": "t28",
+      "city": "Amsterdam",
+      "start_date": "2024-06-12",
+      "end_date": "2024-06-18",
+      "cost": 900,
+      "region": "Europe",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b005",
+      "traveler_id": "t05",
+      "city": "Amsterdam",
+      "start_date": "2024-08-05",
+      "end_date": "2024-08-10",
+      "cost": 890,
+      "region": "Europe",
+      "popularityScore": 89
+    },
+    {
+      "booking_id": "b033",
+      "traveler_id": "t31",
+      "city": "Brisbane",
+      "start_date": "2024-08-14",
+      "end_date": "2024-08-20",
+      "cost": 1200,
+      "region": "Oceania",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b088",
+      "traveler_id": "t18",
+      "city": "Brisbane",
+      "start_date": "2024-05-20",
+      "end_date": "2024-05-26",
+      "cost": 1200,
+      "region": "Oceania",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b079",
+      "traveler_id": "t09",
+      "city": "Beijing",
+      "start_date": "2024-05-15",
+      "end_date": "2024-05-21",
+      "cost": 1070,
+      "region": "Asia",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b030",
+      "traveler_id": "t28",
+      "city": "Beijing",
+      "start_date": "2024-12-15",
+      "end_date": "2024-12-22",
+      "cost": 1050,
+      "region": "Asia",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b054",
+      "traveler_id": "t52",
+      "city": "Marrakesh",
+      "start_date": "2024-09-10",
+      "end_date": "2024-09-15",
+      "cost": 1000,
+      "region": "Africa",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b078",
+      "traveler_id": "t08",
+      "city": "Oslo",
+      "start_date": "2024-04-18",
+      "end_date": "2024-04-24",
+      "cost": 980,
+      "region": "Europe",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b017",
+      "traveler_id": "t15",
+      "city": "Vancouver",
+      "start_date": "2024-09-10",
+      "end_date": "2024-09-15",
+      "cost": 960,
+      "region": "North America",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b064",
+      "traveler_id": "t62",
+      "city": "Oslo",
+      "start_date": "2024-08-14",
+      "end_date": "2024-08-19",
+      "cost": 950,
+      "region": "Europe",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b096",
+      "traveler_id": "t26",
+      "city": "Oslo",
+      "start_date": "2024-04-10",
+      "end_date": "2024-04-16",
+      "cost": 940,
+      "region": "Europe",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b048",
+      "traveler_id": "t46",
+      "city": "Cusco",
+      "start_date": "2024-12-04",
+      "end_date": "2024-12-10",
+      "cost": 890,
+      "region": "South America",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b002",
+      "traveler_id": "t02",
+      "city": "Berlin",
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-05",
+      "cost": 850,
+      "region": "Europe",
+      "popularityScore": 88
+    },
+    {
+      "booking_id": "b052",
+      "traveler_id": "t50",
+      "city": "Johannesburg",
+      "start_date": "2024-07-01",
+      "end_date": "2024-07-06",
+      "cost": 1100,
+      "region": "Africa",
+      "popularityScore": 87
+    },
+    {
+      "booking_id": "b046",
+      "traveler_id": "t44",
+      "city": "Santiago",
+      "start_date": "2024-10-01",
+      "end_date": "2024-10-06",
+      "cost": 1050,
+      "region": "South America",
+      "popularityScore": 87
+    },
+    {
+      "booking_id": "b029",
+      "traveler_id": "t27",
+      "city": "Kuala Lumpur",
+      "start_date": "2024-12-03",
+      "end_date": "2024-12-09",
+      "cost": 930,
+      "region": "Asia",
+      "popularityScore": 87
+    },
+    {
+      "booking_id": "b019",
+      "traveler_id": "t17",
+      "city": "Cancun",
+      "start_date": "2024-11-01",
+      "end_date": "2024-11-07",
+      "cost": 890,
+      "region": "North America",
+      "popularityScore": 87
+    },
+    {
+      "booking_id": "b008",
+      "traveler_id": "t06",
+      "city": "Prague",
+      "start_date": "2024-07-14",
+      "end_date": "2024-07-19",
+      "cost": 880,
+      "region": "Europe",
+      "popularityScore": 87
+    },
+    {
+      "booking_id": "b044",
+      "traveler_id": "t42",
+      "city": "Lima",
+      "start_date": "2024-08-05",
+      "end_date": "2024-08-10",
+      "cost": 1000,
+      "region": "South America",
+      "popularityScore": 86
+    },
+    {
+      "booking_id": "b010",
+      "traveler_id": "t08",
+      "city": "Zurich",
+      "start_date": "2024-09-12",
+      "end_date": "2024-09-18",
+      "cost": 970,
+      "region": "Europe",
+      "popularityScore": 86
+    },
+    {
+      "booking_id": "b035",
+      "traveler_id": "t33",
+      "city": "Wellington",
+      "start_date": "2024-10-03",
+      "end_date": "2024-10-09",
+      "cost": 950,
+      "region": "Oceania",
+      "popularityScore": 86
+    },
+    {
+      "booking_id": "b056",
+      "traveler_id": "t54",
+      "city": "Casablanca",
+      "start_date": "2024-11-05",
+      "end_date": "2024-11-10",
+      "cost": 950,
+      "region": "Africa",
+      "popularityScore": 86
+    },
+    {
+      "booking_id": "b062",
+      "traveler_id": "t60",
+      "city": "Helsinki",
+      "start_date": "2024-06-05",
+      "end_date": "2024-06-10",
+      "cost": 900,
+      "region": "Europe",
+      "popularityScore": 86
+    },
+    {
+      "booking_id": "b038",
+      "traveler_id": "t36",
+      "city": "Perth",
+      "start_date": "2024-05-15",
+      "end_date": "2024-05-20",
+      "cost": 1250,
+      "region": "Oceania",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b045",
+      "traveler_id": "t43",
+      "city": "Bogotá",
+      "start_date": "2024-09-03",
+      "end_date": "2024-09-09",
+      "cost": 950,
+      "region": "South America",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b053",
+      "traveler_id": "t51",
+      "city": "Nairobi",
+      "start_date": "2024-08-05",
+      "end_date": "2024-08-10",
+      "cost": 950,
+      "region": "Africa",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b061",
+      "traveler_id": "t59",
+      "city": "Reykjavik",
+      "start_date": "2024-05-03",
+      "end_date": "2024-05-08",
+      "cost": 950,
+      "region": "Europe",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b068",
+      "traveler_id": "t66",
+      "city": "Warsaw",
+      "start_date": "2024-12-03",
+      "end_date": "2024-12-08",
+      "cost": 880,
+      "region": "Europe",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b020",
+      "traveler_id": "t18",
+      "city": "Montreal",
+      "start_date": "2024-04-01",
+      "end_date": "2024-04-06",
+      "cost": 870,
+      "region": "North America",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b084",
+      "traveler_id": "t14",
+      "city": "Lisbon",
+      "start_date": "2024-10-02",
+      "end_date": "2024-10-07",
+      "cost": 710,
+      "region": "Europe",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b007",
+      "traveler_id": "t02",
+      "city": "Lisbon",
+      "start_date": "2024-06-10",
+      "end_date": "2024-06-15",
+      "cost": 700,
+      "region": "Europe",
+      "popularityScore": 85
+    },
+    {
+      "booking_id": "b036",
+      "traveler_id": "t34",
+      "city": "Fiji",
+      "start_date": "2024-11-15",
+      "end_date": "2024-11-22",
+      "cost": 1450,
+      "region": "Oceania",
+      "popularityScore": 84
+    },
+    {
+      "booking_id": "b059",
+      "traveler_id": "t57",
+      "city": "Zanzibar",
+      "start_date": "2024-06-24",
+      "end_date": "2024-06-29",
+      "cost": 1000,
+      "region": "Africa",
+      "popularityScore": 84
+    },
+    {
+      "booking_id": "b018",
+      "traveler_id": "t16",
+      "city": "Mexico City",
+      "start_date": "2024-10-05",
+      "end_date": "2024-10-10",
+      "cost": 800,
+      "region": "North America",
+      "popularityScore": 84
+    },
+    {
+      "booking_id": "b037",
+      "traveler_id": "t35",
+      "city": "Tahiti",
+      "start_date": "2024-12-01",
+      "end_date": "2024-12-07",
+      "cost": 1550,
+      "region": "Oceania",
+      "popularityScore": 83
+    },
+    {
+      "booking_id": "b058",
+      "traveler_id": "t56",
+      "city": "Lagos",
+      "start_date": "2024-05-12",
+      "end_date": "2024-05-18",
+      "cost": 940,
+      "region": "Africa",
+      "popularityScore": 83
+    },
+    {
+      "booking_id": "b047",
+      "traveler_id": "t45",
+      "city": "Quito",
+      "start_date": "2024-11-12",
+      "end_date": "2024-11-18",
+      "cost": 870,
+      "region": "South America",
+      "popularityScore": 83
+    },
+    {
+      "booking_id": "b066",
+      "traveler_id": "t64",
+      "city": "Tallinn",
+      "start_date": "2024-10-08",
+      "end_date": "2024-10-13",
+      "cost": 850,
+      "region": "Europe",
+      "popularityScore": 83
+    },
+    {
+      "booking_id": "b039",
+      "traveler_id": "t37",
+      "city": "Christchurch",
+      "start_date": "2024-06-22",
+      "end_date": "2024-06-27",
+      "cost": 1000,
+      "region": "Oceania",
+      "popularityScore": 82
+    },
+    {
+      "booking_id": "b057",
+      "traveler_id": "t55",
+      "city": "Accra",
+      "start_date": "2024-12-01",
+      "end_date": "2024-12-07",
+      "cost": 870,
+      "region": "Africa",
+      "popularityScore": 82
+    },
+    {
+      "booking_id": "b049",
+      "traveler_id": "t47",
+      "city": "Montevideo",
+      "start_date": "2024-04-12",
+      "end_date": "2024-04-18",
+      "cost": 850,
+      "region": "South America",
+      "popularityScore": 82
+    },
+    {
+      "booking_id": "b067",
+      "traveler_id": "t65",
+      "city": "Riga",
+      "start_date": "2024-11-02",
+      "end_date": "2024-11-07",
+      "cost": 830,
+      "region": "Europe",
+      "popularityScore": 82
+    },
+    {
+      "booking_id": "b060",
+      "traveler_id": "t58",
+      "city": "Addis Ababa",
+      "start_date": "2024-07-18",
+      "end_date": "2024-07-24",
+      "cost": 880,
+      "region": "Africa",
+      "popularityScore": 80
+    }
+  ]
+}
